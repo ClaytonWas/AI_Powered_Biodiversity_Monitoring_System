@@ -9,19 +9,78 @@
   - [Workflow](#workflow)
   - [Impact of this solution](#impact-of-this-solution)
 - [Azure services](#azure-services)
-- [Azure Architechture Diagram](Azure-Architechture-Diagram)
-- [Benefits](benefits)
-- [Disaster Recovery Plan](Disaster-Recovery-Plan)
-  - [Ensuring Service Recovery](Ensuring-Service-Recovery)
-  - [Ensuring Business Continuity](Ensuring-Business-Continuity)   
-- [Additional Features](Additional-Features)
-- [Pricing](pricing) 
+- [Azure Architechture Diagram](#azure-architechture-diagram)
+- [Platform Development](#platform-development)
+  -  [Power BI Dashboard](#power-bi-dashboard)
+- [Benefits](#benefits)
+- [Disaster Recovery Plan](#disaster-recovery-plan)
+  - [Ensuring Service Recovery](#ensuring-service-recovery)
+  - [Ensuring Business Continuity](#ensuring-business-continuity)   
+- [Additional Features](#additional-features)
+- [Pricing](#pricing) 
 
 # Overview
 In partnership with Microsoft Azure, we envision an innovative initiative to drive positive change through the creation of an Advanced Biodiversity Monitoring System for National Parks. This transformative system revolves around the deployment of a state-of-the-art robot, seamlessly integrated with Azure's cutting-edge photo identification AI and image recognition technologies. This solution will empower change by autonomously navigating through national park areas, capturing and analyzing images to meticulously monitor and understand the shifts in biodiversity over time. Together, we aim to harness the power of technology to inspire transformative actions and foster a sustainable, data-driven approach to conservation and environmental stewardship.
 
 ## Use case
-Content for Subsection 1.1...
+The following are some key use cases for the *AI-Powered Biodiversity Monitoring System*
+
+**1. Large Scale Organizations and Governments: National Park Management**
+Large-scale organizations and government bodies responsible for managing national parks often face challenges in efficiently monitoring and preserving biodiversity. The use of advanced technology can significantly enhance their capabilities.
+
+**Objective:** Real-time Biodiversity Monitoring and Conservation
+
+**Scenario:**
+A national park, spanning vast and diverse landscapes, employs the Advanced Biodiversity Monitoring System. Equipped with robots and Azure-powered infrastructure, the system autonomously collects image data, monitors species distribution, and analyzes environmental conditions.
+
+**Benefits:**
+- **Efficient Conservation Management:** Real-time data allows park authorities to proactively address environmental threats, such as invasive species or climate changes.
+- **Resource Optimization:** Enables targeted conservation efforts based on specific biodiversity patterns identified through AI analysis.
+- **Public Engagement:** The transparent sharing of biodiversity data through the Power BI platform fosters public awareness and support for conservation initiatives.
+
+**2. User Engagement: Environmental Science and Sustainability Promotion**
+
+Promoting user engagement and interest in environmental science and sustainability is crucial for building a community dedicated to conservation efforts.
+
+**Objective:** Inspiring Environmental Awareness and Education
+
+**Scenario:**
+The Power BI platform and website are designed for public access, providing an intuitive interface for users to explore the biodiversity data collected from national parks. Interactive visualizations, such as heatmaps and species filters, make it an engaging tool for users of all ages.
+
+**Benefits:**
+- **Educational Outreach:** Empowers individuals to explore and understand biodiversity trends, promoting environmental literacy.
+- **Inspiration for Conservation:** Visualization of real-world data encourages users to actively participate in conservation activities and support sustainable practices.
+- **Community Involvement:** Enables users to contribute observations and engage in discussions about environmental conservation.
+
+**3. Environmental Education for Private and Personal Use**
+Individuals interested in environmental education for personal knowledge or academic purposes can leverage the Biodiversity Monitoring System for educational purposes.
+
+**Objective:** Personal Environmental Exploration and Learning
+
+**Scenario:**
+Private users, such as students, researchers, or nature enthusiasts, access the Power BI platform to explore biodiversity data. They utilize filters to focus on specific species, locations, or time frames, gaining insights into environmental changes over time.
+
+**Benefits:**
+- **Accessible Learning:** Provides a user-friendly platform for personal exploration, enabling self-directed environmental education.
+- **Data-Driven Research:** Supports individuals conducting personal research projects or academic studies related to biodiversity and environmental science.
+- **Curiosity Cultivation:** Fosters a sense of curiosity and understanding about the natural world, encouraging a lifelong interest in environmental conservation.
+
+**4. Small Areas with Lower Resources: Software Infrastructure for Biodiversity Monitoring**
+In areas where deploying physical robots may be challenging due to limited resources, the software infrastructure becomes a valuable resource for understanding biodiversity changes.
+
+**Objective:** Low-Cost Biodiversity Monitoring for Small Areas
+
+**Scenario:**
+In smaller areas with lower resources, the focus is on utilizing the Azure cloud-based infrastructure for biodiversity monitoring. The Biodiversity Monitoring System, in this case, relies on image data collected through traditional means (e.g., camera traps) and processes it using Azure services for analysis.
+
+**Benefits:**
+- **Cost-Effective Monitoring:** Provides a cost-effective solution for smaller areas without the need for physical robots.
+- **Cloud-Based Analysis:** Leverages Azure services for image recognition, allowing for efficient and accurate biodiversity assessments.
+- **Data-Driven Conservation:** Even with limited resources, enables evidence-based conservation decisions through the analysis of biodiversity trends over time.
+
+These use cases demonstrate the versatility of the Biodiversity Monitoring System, catering to the diverse needs of large organizations, governments, individual users, and smaller areas with resource constraints. The combination of physical robots, Azure infrastructure, and user-friendly platforms creates a comprehensive solution for environmental monitoring and conservation.
+
+
 
 ## Solution
 general info 
@@ -83,7 +142,11 @@ In essence, the implementation of this Biodiversity Monitoring System not only l
 Content for Subsection 2.2...
 
 ## Azure Architechture Diagram
-
+Image and doc
+## Platform Development
+platform description 
+### Power BI Dashboard
+specific things on the dashboard
 ## Benefits
 
 ## Disaster Recovery Plan
@@ -152,4 +215,6 @@ This disaster recovery plan, coupled with the use of Azure services, provides a 
 
 
 ## Pricing
+
+
 
