@@ -153,4 +153,3 @@ This disaster recovery plan, coupled with the use of Azure services, provides a 
 
 ## Pricing
 
-
