@@ -317,7 +317,7 @@ Below is a summary of the benefits of implementing the AI-Powered Biodiversity M
 1. **Data-Driven Conservation Strategies:**
    - The system enables data collection on a large scale, facilitating the development of informed conservation strategies based on historical and real-time data.
 
-2. **Real-Time Alerts and Notifications:**
+2. **Near Real-Time Alerts and Notifications:**
    - Azure services provide the capability to set up real-time alerts, ensuring immediate responses to emerging issues such as invasive species, pollution, or significant biodiversity changes.
 
 3. **Enhanced Collaboration and Community Engagement:**
