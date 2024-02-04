@@ -192,7 +192,14 @@ Using object detection, and further vision classification we can utilize autonom
    - Deploy Microsoft's autonomous robot technology, ensuring it navigates through sensitive areas without causing disturbances, allowing researchers the ability to document and track previously unreachable areas and reducing intrusive manual monitoring.
  
 ### Workflow
-info 
+The flow of the system is in the order:
+1. The autonomous robot uses sensors like image capture and GPS to capture images of the ecosystem in the national park, in this instance.
+2. The sensors stream the data to a local “router” that is connected to an IoT hub using a secure connection established using Azure Front Door
+3. The data is transferred from IoT Hub to a VM Scalable set via a firewall, which houses the IoT Edge.
+4. IoT Edge receives the data and cleans the data and pushes the images to the Custom Vision model deployed on each VM.
+5. The result from the Custom Vision is stored into a Cosmos DB.
+6. The Cosmos DB is integrated with Power BI using Azure Synapse Link, so that National Parks can see the data in a clean and useful manner.
+ 
 ### Impact of this solution
 The development of an Advanced Biodiversity Monitoring System for National Parks, powered by Microsoft Azure, is of paramount importance for several compelling reasons:
 
