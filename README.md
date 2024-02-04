@@ -226,10 +226,52 @@ Image and doc
 Content for Subsection 2.2...
 
 ## Platform Development
-platform description 
+Our initiative extends beyond the development of an Advanced Biodiversity Monitoring System to include a comprehensive Power BI platform and website. This integrated solution aims to provide a user-friendly interface for visualizing, analyzing, and interpreting the wealth of data collected by the Biodiversity Monitoring System.
 
-### Power BI Dashboard
-specific things on the dashboard
+### Power BI Dashboard 
+The following are some key platform features:
+
+1. **Heatmap Visualization:**
+   - The Power BI platform will showcase an interactive heatmap, offering a geographical representation of biodiversity data across national parks. This visualization allows stakeholders to quickly grasp biodiversity hotspots and patterns.
+
+2. **Dynamic Filtering and Sorting:**
+   - Users can filter and sort data based on various parameters, including national park, species, and date. This dynamic functionality enables tailored exploration of biodiversity changes over time and across different locations.
+
+3. **Anomaly Detection:**
+   - Leveraging Azure Machine Learning, the platform incorporates anomaly detection algorithms to identify invasive species or species at the risk of extinction. Unusual patterns trigger alerts, providing valuable insights for conservation efforts.
+
+4. **Alerting and Upkeep Messages:**
+   - The platform implements rule-based alerting, sending immediate notifications to park authorities or relevant stakeholders when anomalies are detected. For instance, if an invasive species is identified, the system generates upkeep messages, enabling swift and targeted intervention.
+
+5. **Azure Time Series Insights:**
+   - Integrate the Power BI platform with Azure Time Series Insights to leverage its interactive environment for analyzing and visualizing time-series data. This connection enables seamless exploration of historical biodiversity data.
+
+6. **Azure Logic Apps:**
+   - Enhance Azure Logic Apps to incorporate workflows triggered by anomalies detected in the Biodiversity Monitoring System. Logic Apps can generate alerts and upkeep messages, creating a seamless communication channel with the Power BI platform.
+
+7. **Azure Power BI:**
+   - Position the Power BI platform as a central component in the architecture, connected to Azure Blob Storage for retrieving and visualizing image data, metadata, and environmental insights.
+
+8. **Azure DevOps:**
+   - Utilize Azure DevOps for managing the development lifecycle of the Power BI platform, ensuring continuous integration and deployment practices for updates and feature enhancements.
+
+**Benefits of Integrated Platform:**
+
+- **Holistic Data Exploration:**
+  - Stakeholders can explore biodiversity data comprehensively, making informed decisions and identifying trends that contribute to effective conservation strategies.
+
+- **Proactive Conservation Management:**
+  - Anomaly detection and alerting empower authorities to proactively address environmental threats, such as invasive species, ensuring timely and targeted conservation efforts.
+
+- **User-Friendly Interface:**
+  - The Power BI platform's user-friendly interface allows both experts and the public to engage with and understand complex biodiversity data, fostering a sense of environmental awareness.
+
+- **Data-Driven Decision Support:**
+  - The integration of anomaly detection and upkeep messages provides decision-makers with actionable insights, facilitating data-driven decision support for effective biodiversity management.
+
+This enhanced idea integrates the Power BI platform seamlessly into the overall architecture, transforming the collected biodiversity data into actionable insights for informed decision-making and active conservation management.
+
+
 
 ## Benefits
 Below is a summary of the benefits of implementing the AI-Powered Biodiversity Monitoring System
