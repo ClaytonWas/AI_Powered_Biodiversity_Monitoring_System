@@ -260,8 +260,7 @@ Azure service that provides us with scalable virtual machines, that host our AI 
 The database we are using to store all the processed data and connected to a Power BI dashboard that is accessible to the stakeholders.
 
 ## Custom Vision API
-describe the computer vision code here. Also link it here 
-Describe, dataset, training, testing, accuracy level
+Visit the [AI_Vision_Code](AI_Vision_Code) file in this repo to see the implementation of the computer vision component. 
 
 ## Platform Development
 Our initiative extends beyond the development of an Advanced Biodiversity Monitoring System to include a comprehensive Power BI platform and website. This integrated solution aims to provide a user-friendly interface for visualizing, analyzing, and interpreting the wealth of data collected by the Biodiversity Monitoring System. The following image is an example of what this dashboard would look like: 
