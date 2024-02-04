@@ -240,7 +240,24 @@ In essence, the implementation of this Biodiversity Monitoring System not only l
 
 
 ## Azure services
-Content for Subsection 2.2...
+[**CDN**](https://learn.microsoft.com/en-us/azure/cdn/cdn-overview#how-it-works)
+This is a secure connection between endpoints that we are using to connect our data collection and the firewall.
+
+[**IoT Edge**](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime?view=iotedge-1.4#iot-edge-agent)
+This is the service we use to clean the data received from the sensors through IoT Hub
+
+[**Azure Firewall**](https://learn.microsoft.com/en-us/azure/firewall/overview#azure-firewall-standard)
+The firewall service we use to protect our networking and also route our two incoming data into their respective VMSS.
+
+[**IoT Hub**](https://learn.microsoft.com/en-us/azure/iot-hub/iot-concepts-and-iot-hub)
+The azure service which acts as a centralized hub for all the sensors deployed for data collection
+
+[**VMSS**](https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
+Azure service that provides us with scalable virtual machines, that host our AI and our IoT Edge service with App Gateway enabled on them.
+
+
+[**Cosmos DB**](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction)
+The database we are using to store all the processed data and connected to a Power BI dashboard that is accessible to the stakeholders.
 
 ## Custom Vision API
 describe the computer vision code here. Also link it here 
