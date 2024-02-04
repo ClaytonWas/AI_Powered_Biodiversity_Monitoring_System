@@ -264,7 +264,9 @@ describe the computer vision code here. Also link it here
 Describe, dataset, training, testing, accuracy level
 
 ## Platform Development
-Our initiative extends beyond the development of an Advanced Biodiversity Monitoring System to include a comprehensive Power BI platform and website. This integrated solution aims to provide a user-friendly interface for visualizing, analyzing, and interpreting the wealth of data collected by the Biodiversity Monitoring System.
+Our initiative extends beyond the development of an Advanced Biodiversity Monitoring System to include a comprehensive Power BI platform and website. This integrated solution aims to provide a user-friendly interface for visualizing, analyzing, and interpreting the wealth of data collected by the Biodiversity Monitoring System. The following image is an example of what this dashboard would look like: 
+![image](https://github.com/ClaytonWas/AI_Powered_Biodiversity_Monitoring_System/assets/60206739/adb6bcd2-a6e2-45a1-baca-8a328a2067ae)
+
 
 ### Power BI Dashboard 
 The following are some key platform features:
