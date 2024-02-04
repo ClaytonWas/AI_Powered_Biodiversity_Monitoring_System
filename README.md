@@ -392,6 +392,47 @@ This disaster recovery plan, coupled with the use of Azure services, provides a 
 
 
 ## Pricing
+Following a thorough cost analysis of the Azure services integrated into this infrastructure, the projected monthly expenditure is approximately $4,313.93 CAD, leading to an annual estimate of $60,000 CAD. Interestingly, this aligns closely with the current average salary for a field biologist. The image below shows the breakdown of the used services.
+![image](https://github.com/ClaytonWas/AI_Powered_Biodiversity_Monitoring_System/assets/60206739/a97f97b1-8fa5-45c5-9dbb-a3890ac96c1c)
+
+
+It's noteworthy that the robot's capability to operate in extreme conditions enhances data collection, potentially augmenting the overall value of the environmental monitoring system.
+
+**Exploring Additional Revenue Streams:**
+
+While the primary source of revenue might be the utilization of the system for environmental monitoring, there are avenues to explore for additional revenue:
+
+1. **Data as a Service (DaaS):**
+   - Consider offering the collected and analyzed biodiversity data as a service to researchers, educational institutions, or organizations requiring such data for their studies.
+
+2. **Collaborative Research Partnerships:**
+   - Establish partnerships with research institutions, environmental agencies, or companies interested in leveraging the comprehensive dataset for their own projects, creating opportunities for collaborative research.
+
+3. **Educational Programs and Workshops:**
+   - Develop educational programs and workshops centered around environmental science, leveraging the platform's capabilities to offer immersive learning experiences. Charge fees for participation.
+
+4. **Custom Analytics and Reports:**
+   - Offer custom analytics and detailed reports to organizations or businesses interested in specific insights derived from the collected environmental data, providing a tailored service.
+
+5. **Public Engagement Initiatives:**
+   - Engage with local communities and organizations to create public awareness campaigns or environmental initiatives. Sponsorship or partnerships with local businesses for such initiatives could generate revenue.
+
+6. **Grant Funding and Sponsorships:**
+   - Seek grant funding from environmental organizations, government agencies, or private foundations interested in supporting biodiversity research. Explore corporate sponsorships aligned with environmental conservation.
+
+7. **Subscription Models:**
+   - Implement subscription-based models for certain features or premium services within the Power BI platform, allowing users to access advanced analytics or additional functionalities.
+
+8. **API Access:**
+   - Offer API access to specific datasets or functionalities, allowing third-party developers or businesses to integrate environmental data into their applications or services.
+
+9. **Consulting Services:**
+   - Provide consulting services to businesses or governmental bodies looking to implement similar environmental monitoring solutions, leveraging the expertise gained in developing and maintaining the current infrastructure.
+
+10. **Environmental Impact Assessment Services:**
+    - Extend services to conduct environmental impact assessments for construction projects, land development, or other initiatives requiring thorough biodiversity monitoring.
+
+By diversifying revenue streams, the environmental monitoring system can not only cover operational costs but also create additional value for stakeholders and contribute to the sustainability of the initiative.
 
 
 
