@@ -19,7 +19,8 @@
   - [Ensuring Service Recovery](#ensuring-service-recovery)
   - [Ensuring Business Continuity](#ensuring-business-continuity)   
 - [Additional Features](#additional-features)
-- [Pricing](#pricing) 
+- [Pricing](#pricing)
+- [Exploring Additional Revenue Streams](#exploring-additional-revenue-streams)
 
 # Overview
 In partnership with Microsoft Azure, we envision an innovative initiative to drive positive change through the creation of an Advanced Biodiversity Monitoring System for National Parks. This transformative system revolves around the deployment of a state-of-the-art robot, seamlessly integrated with Azure's cutting-edge photo identification AI and image recognition technologies. This solution will empower change by autonomously navigating through ecologically important areas, capturing and analyzing images to monitor and understand the shifts in biodiversity over time.
@@ -424,7 +425,7 @@ Following a thorough cost analysis of the Azure services integrated into this in
 
 It's noteworthy that the robot's capability to operate in extreme conditions enhances data collection, potentially augmenting the overall value of the environmental monitoring system.
 
-**Exploring Additional Revenue Streams:**
+## Exploring Additional Revenue Streams:
 
 While the primary source of revenue might be the utilization of the system for environmental monitoring, there are avenues to explore for additional revenue:
 
