@@ -21,7 +21,11 @@
 - [Pricing](#pricing) 
 
 # Overview
-In partnership with Microsoft Azure, we envision an innovative initiative to drive positive change through the creation of an Advanced Biodiversity Monitoring System for National Parks. This transformative system revolves around the deployment of a state-of-the-art robot, seamlessly integrated with Azure's cutting-edge photo identification AI and image recognition technologies. This solution will empower change by autonomously navigating through national park areas, capturing and analyzing images to meticulously monitor and understand the shifts in biodiversity over time. Together, we aim to harness the power of technology to inspire transformative actions and foster a sustainable, data-driven approach to conservation and environmental stewardship.
+In partnership with Microsoft Azure, we envision an innovative initiative to drive positive change through the creation of an Advanced Biodiversity Monitoring System for National Parks. This transformative system revolves around the deployment of a state-of-the-art robot, seamlessly integrated with Azure's cutting-edge photo identification AI and image recognition technologies. This solution will empower change by autonomously navigating through ecologically important areas, capturing and analyzing images to monitor and understand the shifts in biodiversity over time.
+
+Environmental sustainability is vital to the understanding and protection of ecosystems. In many areas, there is limited time and a proportionally low amount qualified researchers for proper and extensive to be possible. Ecosystem interactions are currently done in two major ways: generalized data over time, specific ecosystem interactions.
+
+Both of these methods are often unable to explain or account for ecological changes without lengthy data collection and analysis, or significant periods of time required between observations.
 
 ### Use case
 The following are some key use cases for the *AI-Powered Biodiversity Monitoring System*
@@ -164,23 +168,27 @@ Bellow is a breakdown of all potential stakeholders based on our suggested use c
    - Advocacy Groups
 
 ## Solution
-general info 
+Instead of focusing on collection, a researchers time is better spent on observation, evaluation, and application. 
+
+This framework is designed to help researchers maximize efficiency, and meet the fast deadlines of real world climate and ecology protection. Key features include invasive species, species growth & migration, and climate pattern and factor collection.
+
+Using object detection, and further vision classification we can utilize autonomous vehicles equipped with appropriate image and sensor capturing abilities to allow for extensive data collection, including in areas humans can't monitor with traditional methods.
 
 ### Features 
 1. **Automated Image Recognition:**
-   - Utilize Azure Cognitive Services, particularly Azure Computer Vision, to enable the robot to identify and categorize various plant and animal species from images captured during its walks.
+   - Utilize Azure Cognitive Services, particularly Azure Computer Vision, to enable the robot to identify and categorize both how many objects are in a photo, and the various plant and animal species from images.
 
 2. **Environmental Monitoring:**
-   - Integrate Azure IoT Hub for real-time data collection from on-board sensors that monitor climate conditions, enabling the system to assess the environmental health of the area.
+   - Integrate Azure IoT Hub and IoT Edge for data identification and cleaning from on-board sensors that monitor important data like locational & climate conditions, enabling the system to assess the environmental health of the area and allowing researchers to make better assumptions about ecological processes in the area.
 
 3. **Invasive Species Detection:**
    - Implement Azure Machine Learning to train the system to recognize invasive species, enabling early detection and timely intervention to preserve the ecosystem.
 
 4. **Waste and Pollution Tracking:**
-   - Leverage Azure Custom Vision to train the robot to identify instances of litter or pollution, enabling the system to notify park authorities for necessary cleanup.
+   - Leverage Azure Custom Vision to train the robot to identify instances of ecological damage or pollution, enabling the system to notify park authorities of important events or areas that would benefit from maintenance.
 
 5. **Safety and Reduced Human Disturbance:**
-   - Deploy Microsoft's autonomous robot technology, ensuring it navigates through sensitive areas without causing disturbances, reducing the need for manual monitoring by humans.
+   - Deploy Microsoft's autonomous robot technology, ensuring it navigates through sensitive areas without causing disturbances, allowing researchers the ability to document and track previously unreachable areas and reducing intrusive manual monitoring.
  
 ### Workflow
 info 
