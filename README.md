@@ -236,6 +236,8 @@ The development of an Advanced Biodiversity Monitoring System for National Parks
 In essence, the implementation of this Biodiversity Monitoring System not only leverages cutting-edge technology but also represents a pivotal step towards fostering positive change, sustainable conservation practices, and the empowerment of communities to actively participate in the preservation of our natural heritage.
 
 ## Azure Architechture Diagram
+![Alt Text](relative/path/to/your/image.png)
+
 ![image](https://raw.githubusercontent.com/ClaytonWas/AI_Powered_Biodiversity_Monitoring_System/main/infra_diag.png)
 
 
