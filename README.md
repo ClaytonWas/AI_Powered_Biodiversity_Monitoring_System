@@ -9,8 +9,8 @@
   - [Features](#features)
   - [Workflow](#workflow)
   - [Impact of this solution](#impact-of-this-solution)
-- [Azure services](#azure-services)
 - [Azure Architechture Diagram](#azure-architechture-diagram)
+- [Azure services](#azure-services)
 - [Platform Development](#platform-development)
   -  [Power BI Dashboard](#power-bi-dashboard)
 - [Benefits](#benefits)
@@ -219,15 +219,18 @@ The development of an Advanced Biodiversity Monitoring System for National Parks
 
 In essence, the implementation of this Biodiversity Monitoring System not only leverages cutting-edge technology but also represents a pivotal step towards fostering positive change, sustainable conservation practices, and the empowerment of communities to actively participate in the preservation of our natural heritage.
 
+## Azure Architechture Diagram
+Image and doc
+
 ## Azure services
 Content for Subsection 2.2...
 
-## Azure Architechture Diagram
-Image and doc
 ## Platform Development
 platform description 
+
 ### Power BI Dashboard
 specific things on the dashboard
+
 ## Benefits
 Below is a summary of the benefits of implementing the AI-Powered Biodiversity Monitoring System
 1. **Data-Driven Conservation Strategies:**
