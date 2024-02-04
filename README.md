@@ -11,6 +11,7 @@
   - [Impact of this solution](#impact-of-this-solution)
 - [Azure Architechture Diagram](#azure-architechture-diagram)
 - [Azure services](#azure-services)
+- [Custom Vision API](#custom-vision-api)
 - [Platform Development](#platform-development)
   -  [Power BI Dashboard](#power-bi-dashboard)
 - [Benefits](#benefits)
@@ -232,6 +233,10 @@ Image and doc
 
 ## Azure services
 Content for Subsection 2.2...
+
+## Custom Vision API
+describe the computer vision code here. Also link it here 
+Describe, dataset, training, testing, accuracy level
 
 ## Platform Development
 Our initiative extends beyond the development of an Advanced Biodiversity Monitoring System to include a comprehensive Power BI platform and website. This integrated solution aims to provide a user-friendly interface for visualizing, analyzing, and interpreting the wealth of data collected by the Biodiversity Monitoring System.
